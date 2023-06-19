@@ -1,5 +1,5 @@
 # GorestAPI-Testing
-Project Description: GorestAPI is a 24/7 online fake REST API service designed for quick testing and prototyping of web and Android applications. With the help of GorestAPI, I utilized REST API's HTTP methods to perform the following actions:
+Description: GorestAPI is a 24/7 online fake REST API service designed for quick testing and prototyping of web and Android applications. With the help of GorestAPI, I utilized REST API's HTTP methods to perform the following actions:
 
 •	Create User - I created a new user on GorestAPI by providing the necessary user details. This was accomplished using the HTTP method called POST.
 
